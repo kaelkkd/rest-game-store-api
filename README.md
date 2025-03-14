@@ -33,7 +33,7 @@ The API provides full CRUD (Create, Read, Update, Delete) operations for games. 
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/kaelkkd/.git
+   git clone https://github.com/kaelkkd/rest-game-store-api.git
    cd game-store-api
    ```
 
